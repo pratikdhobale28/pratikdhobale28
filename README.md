@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a data analyst with **3.2 years of professional experience** in transforming raw data into actionable insights. I enjoy diving into data, solving real-world business problems, and designing intuitive dashboards that help teams make informed decisions.
+I'm a data analyst with **professional experience** in transforming raw data into actionable insights. I enjoy diving into data, solving real-world business problems, and designing intuitive dashboards that help teams make informed decisions.
 
 I'm skilled in tools like **Excel, SQL, Power BI, Tableau, Python, R**, and I’m always eager to learn more, challenge myself, and grow in the field of data analytics.
 
